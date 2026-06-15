@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "Hainole",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "ONEBLOCK-CXry.aternos.me",
     "port": 34033,
-    "version": "26.1.2",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
