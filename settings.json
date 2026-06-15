@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Hainole",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "ONEBLOCK-CXry.aternos.me",
     "port": 34033,
-    "version": "1.21.1",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled":false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
